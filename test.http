@@ -1,0 +1,11 @@
+### POST request to perform a swap on Solana
+POST http://localhost:1337/solana/swap
+Content-Type: application/json
+
+{
+  "publicKey": "4Nd1mP4F1ZkFb9Ur1Tq69yA4z1A4m2FgYzB7LoN2VZkR",
+  "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "outputMint": "So11111111111111111111111111111111111111112",
+  "amount": 0.01,
+  "slippage": 0.5
+}
