@@ -98,7 +98,7 @@ We are Quantum Coders, the team behind this project. We are passionate about blo
 - **Quantum Coders on X:** [@qcodersteam](https://x.com/qcodersteam)
 - **LunaAI on X:** [@lunadefiai](https://x.com/lunadefiai)
 - **Bonkhemist on X:** [@bonkhemist](https://x.com/bonkhemist)
-- **_0xJesus on X:** [@0xjesus](https://x.com/_0xjesus)
+- **_0xJesus on X:** [@_0xjesus](https://x.com/_0xjesus)
 
 ## Contributing
 
